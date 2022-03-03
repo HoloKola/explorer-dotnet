@@ -1,0 +1,12 @@
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\bin\Debug\explorer-dotnet.exe.config
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\bin\Debug\explorer-dotnet.exe
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\bin\Debug\explorer-dotnet.pdb
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer-dotnet.csproj.AssemblyReference.cache
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer-dotnet.csproj.SuggestedBindingRedirects.cache
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer_dotnet.StartChildForm.resources
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer_dotnet.TaskbarForm.resources
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer_dotnet.Properties.Resources.resources
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer-dotnet.csproj.GenerateResource.cache
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer-dotnet.csproj.CoreCompileInputs.cache
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer-dotnet.exe
+C:\Users\alv2i\source\repos\explorer-dotnet\explorer-dotnet\obj\Debug\explorer-dotnet.pdb
