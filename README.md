@@ -1,2 +1,2 @@
-# explorer-dotnet
+# Explorer.NET
 A FOSS replacement for Windows Explorer.
